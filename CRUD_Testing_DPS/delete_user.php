@@ -1,6 +1,6 @@
 <?php
 
-include("connection.php");
+include("connection.html");
 $con = connection();
 
 $id=$_GET["id"];
